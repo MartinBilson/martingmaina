@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Martin%20Githae%20Maina&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">🚀 Full Stack Developer | 📊 Data Analyst | 🧩 Odoo Consultant</h3>
+<h3 align="center">🚀 Junior Software Developer | 📊 Data Analyst | 🧩 Odoo Expert</h3>
 <h4 align="center">Nairobi, Kenya 🇰🇪</h4>
 
 <p align="center">
